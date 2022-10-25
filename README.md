@@ -1,2 +1,2 @@
 # GitHub
-Learning how to use githib 
+Learning how to use GitHub
